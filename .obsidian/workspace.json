@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "1ffd228a7d25eb9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e8a699c1760600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b0a3d666ad063c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. OO Analysis and Design/00. Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. Intro"
+            }
+          },
+          {
+            "id": "1663e3ee59680e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. OO Analysis and Design/02. Domain Modeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Domain Modeling"
+            }
+          },
+          {
+            "id": "37ee3acdb92f63e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. OO Analysis and Design/_assets/01/Slides - Object-Oriented Analysis and Design.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Object-Oriented Analysis and Design"
+            }
+          }
+        ]
+      },
+      {
+        "id": "45146344cf240f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6588df774c3e7f27",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. OO Analysis and Design/_assets/01/HW - Project Description.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "HW - Project Description"
+            }
+          },
+          {
+            "id": "80f89ccca53fb9ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. OO Analysis and Design/_assets/01/AllForOne Use Case Diagram.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AllForOne Use Case Diagram"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e81e7d4da34f334b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dcfc70a4eca4464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca16dffcf9e0a2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e36be2cd6b3976d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a92e41d48e58f7e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "right": {
+    "id": "10b9cb4013f68a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1415d56049703ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa3824041ffb0d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Modern Operating Systems 4th Edition--Andrew Tanenbaum.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Modern Operating Systems 4th Edition--Andrew Tanenbaum"
+            }
+          },
+          {
+            "id": "164f1633f4074941",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Modern Operating Systems 4th Edition--Andrew Tanenbaum.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Modern Operating Systems 4th Edition--Andrew Tanenbaum"
+            }
+          },
+          {
+            "id": "e97b11edf5c00f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29faaca0d42f2d44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Modern Operating Systems 4th Edition--Andrew Tanenbaum.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Modern Operating Systems 4th Edition--Andrew Tanenbaum"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "6588df774c3e7f27",
+  "lastOpenFiles": [
+    "Deep-Dive-Engineering-Docs",
+    "EngineeringDeepDiveVault",
+    "04. OO Analysis and Design/_assets/01/HW - Project Description.pdf",
+    "04. OO Analysis and Design/02. Domain Modeling.md",
+    "04. OO Analysis and Design/_assets/01/AllForOne Use Case Diagram.pdf",
+    "04. OO Analysis and Design/_assets/01/Slides - Object-Oriented Analysis and Design.pdf",
+    "04. OO Analysis and Design/00. Intro.md",
+    "04. OO Analysis and Design/_assets/01/Object-Oriented Design and Analysis Handbook.pdf",
+    "04. OO Analysis and Design/01. Requirements Analysis.md",
+    "04. OO Analysis and Design/_assets/Pasted image 20250221233048.png",
+    "04. OO Analysis and Design/_assets/Pasted image 20250221232835.png",
+    "03. Extra/01. Project Management.md",
+    "04. OO Analysis and Design/_assets/01",
+    "04. OO Analysis and Design/_assets",
+    "Books/[Linux.System.Programming(2nd,2013.5)].Robert.Love.pdf",
+    "04. OO Analysis and Design",
+    "Books/Modern Operating Systems 4th Edition--Andrew Tanenbaum.pdf",
+    "01. Concurrency/03. Scheduling/5. CFS - Completely Fair Scheduler.md",
+    "01. Concurrency/03. Scheduling/4. RR - Round Robin.md",
+    "01. Concurrency/03. Scheduling/3. SRTF - Shortest Remaining Time First.md",
+    "01. Concurrency/03. Scheduling/2. SJF - Shortest Job First.md",
+    "01. Concurrency/03. Scheduling/1. FCFS - First Come First Serve.md",
+    "01. Concurrency/03. Scheduling/0. Process Scheduler.md",
+    "01. Concurrency/01. Processes.md",
+    "01. Concurrency/04. Interprocess Communication/01. Race Condition.md",
+    "01. Concurrency/04. Interprocess Communication/03. Semaphore.md",
+    "01. Concurrency/04. Interprocess Communication/04. Mutex.md",
+    "01. Concurrency/04. Interprocess Communication/02. Spinlock.md",
+    "02. Algorithms & DS/05. Dynamic Programming/Problems/03. LCS - Longest Common Subsequence.md",
+    "02. Algorithms & DS/05. Dynamic Programming/Problems/02. Knapsack.md",
+    "02. Algorithms & DS/05. Dynamic Programming/Problems/01. Fibonacci.md",
+    "02. Algorithms & DS/04. Hash Tables.md",
+    "02. Algorithms & DS/05.1.md",
+    "02. Algorithms & DS/03. Hashing.md",
+    "01. Concurrency/Priority Inversion.md",
+    "02. Algorithms & DS/01. Binary Search Tree.md",
+    "01. Concurrency/04. Interprocess Communication/10. Conditional Variables.md",
+    "01. Concurrency/_ Reading _.md",
+    "01. Concurrency/04. Interprocess Communication/_assets/Pasted image 20250218030208.png",
+    "01. Concurrency/04. Interprocess Communication/_assets/Pasted image 20250217220724.png",
+    "01. Concurrency/04. Interprocess Communication/_assets/Pasted image 20250217220332.png",
+    "01. Concurrency/04. Interprocess Communication/_assets/Pasted image 20250217211514.png",
+    "01. Concurrency/04. Interprocess Communication/_assets/Pasted image 20250217201628.png",
+    "01. Concurrency/_assets/Pasted image 20250217020542.png",
+    "01. Concurrency/_assets/Pasted image 20250217020222.png",
+    "01. Concurrency/_assets/Pasted image 20250216214155.png",
+    "Untitled.canvas"
+  ]
+}

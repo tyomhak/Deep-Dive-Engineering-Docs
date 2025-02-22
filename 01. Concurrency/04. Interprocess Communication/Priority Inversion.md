@@ -1,0 +1,1 @@
+Consider a computer with two Processes, H (high priority) and L (low priority). Scheduling rules are that H is run whenever it is in _ready_ state. At a certain moment, with L in its critical region, H becomes _ready_, and starts waiting on L to finish. But since L is never scheduled while H is running, L never gets the chance to leave its critical region, so H loops forever.
