@@ -42,9 +42,13 @@ Agents represent insurance companies.
 ##### Price Calculation:
 > [!WARNING]  Price calculation is based on the following formula; however, it's important to acknowledge that laws and policies may evolve in the coming years:
 
-Price = BM coefficient * purpose coefficient * vehicle production year coefficient * BASE_PRICE
+$$
+PRICE\ =\ BM\ coef\ *\ purpose\ coef\ *\ vehicle\ production\ year\ coef\ *\ BASE\_PRICE
+$$
 
-BASE_PRICE = 41,000 AMD (but it may be subject to change in the future).
+Where
+	BASE_PRICE = 41,000 AMD (but it may be subject to change in the future).
+	BM coefficient is based on the BM class (1 to 22).
 
 ##### Additional details:
 - only one contract can exist for a given period for a particular vehicle.
