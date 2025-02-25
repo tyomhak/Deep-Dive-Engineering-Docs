@@ -18,8 +18,8 @@ Create Use-Case and Concept Design Diagrams for the project.
 - can sign contracts only for vehicles registered under their name.
 
 **Legal policyholders** (business representative users)
-- **view** company's active **contracts**
 - Required to provide their TPIN (Taxpayer ID Number) in account section.
+- **view** company's active **contracts**
 - can sign contracts only for vehicles owned by their company.
 ##### Agents:
 Agents represent insurance companies.
@@ -34,7 +34,6 @@ Agents represent insurance companies.
 #### Contract Details:
 ##### Contract contains:
 - start date
-- end date
 - duration (1 week, 1 month, 3 months, 6 months, 1 year)
 - purpose of vehicle use ("TAXI", "PERSONAL")
 - calculated contract price determined by the insurance company (currently, insurance prices are regulated in Armenia, and they are consistent across all insurance companies).
