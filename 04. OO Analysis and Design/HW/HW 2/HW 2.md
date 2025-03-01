@@ -2,9 +2,6 @@
 
 # CIT BATCH
 
-
-
-
 ## Job
 ### Job (Batch Process)
 - contains 1 or more Steps
@@ -21,9 +18,12 @@
 	- end time
 	- etc
 
+### Job Launcher
+- executes a job
+
 ### Job Repository 
 - JobRepository is the mechanism in CIT Batch that makes all this persistence possible.
-- provides CRUD operations for JobLauncher, Job, and Step instantiations.
+- provides CRUD op4,erations for JobLauncher, Job, and Step instantiations.
 - Once a Job is launched, a JobExecution is obtained from the repository and, during the course of execution, StepExecution and JobExecution instances are persisted to the repository.
 
 
