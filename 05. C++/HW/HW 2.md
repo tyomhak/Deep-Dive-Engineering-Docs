@@ -1,13 +1,13 @@
 
 # Introduction to metaprogramming
 Write template structures, which will perform the following calculations during compilation phase:
-- [x] Power `a^N`, where `N` is an integer
-	- [x] using O(N) instantiations
-	- [x] using O(log N) instantiations. 
-- [x] Absolute |X| of given value 'X'
-- [x] Maximal of 3 values {A, B, C}
-- [x] Number of digits of given integer 'N'
-- [x] Number of divisors of 'N'
+- [ ] Power `a^N`, where `N` is an integer
+	- [ ] using O(N) instantiations
+	- [ ] using O(log N) instantiations. 
+- [ ] Absolute |X| of given value 'X'
+- [ ] Maximal of 3 values {A, B, C}
+- [ ] Number of digits of given integer 'N'
+- [ ] Number of divisors of 'N'
 # Manipulations with types  
 Write templated structures, which will return the following characteristics  
 for provided type 'T':  
