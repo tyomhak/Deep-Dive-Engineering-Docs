@@ -14,8 +14,12 @@ Implement the following metafunctions:
 4) `ct_max_element< Seq >`, for computing maximal value of given sequence,
 5) `ct_push_back< Seq, Value >`, for appending 'Value' to given sequence,
 6) `ct_reverse< Seq >`, for reversing given sequence,
-7) 'ct_insert_to_sorted< Seq, Value >', insertion of 'Value' into sorted sequence 'Seq', so the latter one will remain sorted
-8) 'ct_insertion_sort< Seq >', implementation of sorting,
+7) `ct_insert_to_sorted< Seq, Value >`, insertion of 'Value' into sorted sequence 'Seq', so the latter one will remain sorted
+8) `ct_insertion_sort< Seq >`, implementation of sorting,
 
 Advanced exercises:
 1) Implement compile-time Binary search tree, and several metafunctions for it.
+
+##### Part 4
+1) Implement removal of all the values which are of given type 'T'.
+2) Implement filtering of all those values, which are of given type 'T'.
