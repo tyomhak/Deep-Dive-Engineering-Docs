@@ -1,4 +1,3 @@
-
 [Solution link](https://github.com/tyomhak/EngineeringDeepDive/blob/main/Cpp/01/Homework_01.cpp)
 #### Problem 1
 Write a function template, which will print content of provided `std::vector<>` to the console. 

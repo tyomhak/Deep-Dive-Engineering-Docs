@@ -1,4 +1,4 @@
-
+[Solution Link](https://github.com/tyomhak/EngineeringDeepDive/tree/main/Cpp/02)
 # Introduction to metaprogramming
 Write template structures, which will perform the following calculations during compilation phase:
 - [ ] Power `a^N`, where `N` is an integer
