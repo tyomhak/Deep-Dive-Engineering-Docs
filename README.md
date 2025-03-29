@@ -1,0 +1,1 @@
+This project/vault is intended to be viewed from [Obsidian](https://obsidian.md/) application. File and directory links will likely not work if you're viewing it from your browser.
